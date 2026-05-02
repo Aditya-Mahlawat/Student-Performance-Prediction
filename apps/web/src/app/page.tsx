@@ -1,7 +1,7 @@
 "use client"
 import { useState } from 'react'
 
-const API = 'http://localhost:8003'
+const API = 'http://localhost:8005'
 
 const defaultStudent = {
   age: 20, gender: 'F', major: 'STEM',
